@@ -27,3 +27,20 @@ if _descriptor._USE_C_DESCRIPTORS == False:
   _globals['_GARENA_420_DECRYPTED_PAYLOADS']._serialized_end=362
 # @@protoc_insertion_point(module_scope)
 
+##IF YOU CHANGE THE CREDITS, WE'LL FUCK YOUR MOTHER AND YOUR GRANDMOTHER
+    
+    
+    
+   ##CREDIT @minister_69
+      ##CREDIT @minister_69   ##CREDIT @minister_69  
+       ##CREDIT @minister_69
+          ##CREDIT @minister_69   ##CREDIT @minister_69  
+           ##CREDIT @minister_69   ##CREDIT @minister_69 
+             ##CREDIT @minister_69   ##CREDIT @minister_69 
+               ##CREDIT @minister_69   ##CREDIT @minister_69   
+               ##CREDIT @minister_69   ##CREDIT @minister_69  
+                ##CREDIT @minister_69   ##CREDIT @minister_69  
+          ##CREDIT @minister_69          ##CREDIT @minister_69 
+             ##CREDIT @minister_69  
+               ##CREDIT @minister_69  
+                 ##CREDIT @minister_69 
