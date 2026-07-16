@@ -225,7 +225,7 @@ async def json_to_proto(json_data: str, proto_message) -> bytes:
         raise
 
 async def get_access_token(account: str):
-    url = "https://ffmconnect.live.gop.garenanow.com/oauth/guest/token/grant"
+    url = "https://100067.connect.garena.com/oauth/guest/token/grant"
     payload = f"{account}&response_type=token&client_type=2&client_secret=2ee44819e9b4598845141067b281621874d0d5d7af9d8f7e00c1e54715b7d1e3&client_id=100067"
     headers = {
         'User-Agent': USERAGENT,
